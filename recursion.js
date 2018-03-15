@@ -16,3 +16,9 @@ var  items = [
     { t: "ff2", LogEntryId: 14, ParentEntry: 12 },
     { t: "ff2f", LogEntryId: 15, ParentEntry: '14' },
 ];
+
+
+
+console.log(
+    recursionTree(items)
+           );
