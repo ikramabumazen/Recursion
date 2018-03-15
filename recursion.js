@@ -17,6 +17,11 @@ var  items = [
     { t: "ff2f", LogEntryId: 15, ParentEntry: '14' },
 ];
 
+let recursionTree = () => {  // functions are values ( always remember )
+    
+}
+
+
 
 
 console.log(
